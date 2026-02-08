@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 # APIs Explorer- Compute Engine
-### Google Cloud Skills Boost 
+### Google Cloud Skills Boost | GSP293
 
 [![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/focuses/3523?parent=catalog)
 
@@ -239,7 +239,7 @@ Having issues? Here are quick solutions:
 *This guide was crafted with care to enhance your Google Cloud learning experience.*  
 *Remember: Understanding beats completion. Take your time and enjoy the journey.*
 
-<sub>Last updated: Febrauary 2026 | Version 1.0</sub>
+<sub>Last updated: February 2026 | Version 1.0</sub>
 
 </div>
 
