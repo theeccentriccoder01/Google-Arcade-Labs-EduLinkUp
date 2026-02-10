@@ -234,7 +234,7 @@ Having issues? Here are quick solutions:
 *This guide was crafted with care to enhance your Google Cloud learning experience.*  
 *Remember: Understanding beats completion. Take your time and enjoy the journey.*
 
-<sub>Last updated: January 2026 | Version 1.0</sub>
+<sub>Last updated: February 2026 | Version 1.0</sub>
 
 </div>
 
