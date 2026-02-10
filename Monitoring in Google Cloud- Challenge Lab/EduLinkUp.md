@@ -34,6 +34,24 @@ sudo chmod +x EduLinkUp.sh
 ./EduLinkUp.sh
 ```
 
+* Go to `Create log-based metric` from [here](https://console.cloud.google.com/logs/metrics/edit?)
+
+1. For Log-based metric name: enter `edulinkup`
+
+2. Paste The Following in `Build filter` & Replace PROJECT_ID
+
+```bash
+resource.type="gce_instance"
+logName="projects/PROJECT_ID/logs/apache-access"
+textPayload:"200"
+```
+
+3. Paste The Following in `Regular Expression` field:
+
+```bash
+execution took (\d+)
+```
+</div>
 
 
 > **Note:** The script automates repetitive setup tasks. We encourage you to review the script content to understand each step and learn the underlying Google Cloud operations.
@@ -243,7 +261,7 @@ Having issues? Here are quick solutions:
 *This guide was crafted with care to enhance your Google Cloud learning experience.*  
 *Remember: Understanding beats completion. Take your time and enjoy the journey.*
 
-<sub>Last updated: January 2026 | Version 1.0</sub>
+<sub>Last updated: February 2026 | Version 1.0</sub>
 
 </div>
 
