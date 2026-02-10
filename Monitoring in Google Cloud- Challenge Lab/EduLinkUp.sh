@@ -66,9 +66,9 @@ echo
 
 # Section 3: Uptime Check
 echo "${YELLOW_TEXT}Creating uptime check for the instance...${RESET_FORMAT}"
-gcloud monitoring uptime create edulinkup \
-  --resource-type="gce-instance" \
-  --resource-labels=project_id=$DEVSHELL_PROJECT_ID,instance_id=$INSTANCE_ID,zone=$ZONE
+gcloud monitoring uptime create apache-uptime-check \
+  --resource-type="uptime-url" \
+  --resource-labels=host=$EXTERNAL_IP,path=/,port=80
 echo "${GREEN_TEXT}Uptime check created successfully!${RESET_FORMAT}"
 echo
 
