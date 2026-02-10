@@ -27,6 +27,8 @@ graph LR
 ##  Quick Start Guide
 
 
+<div style="padding: 15px; margin: 10px 0;">
+
 ## Find Your form Number:
 
 ### - Form 1:
@@ -271,6 +273,7 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+
 
 
 
