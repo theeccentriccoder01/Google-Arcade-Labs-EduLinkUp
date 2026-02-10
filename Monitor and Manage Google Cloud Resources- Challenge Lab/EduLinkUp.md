@@ -29,6 +29,14 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
+export BUCKET_NAME=
+export TOPIC_NAME=
+export FUNCTION_NAME=
+export REGION=
+export BUCKET_USER=
+```
+
+```bash
 curl -LO raw.githubusercontent.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Monitor%20and%20Manage%20Google%20Cloud%20Resources-%20Challenge%20Lab/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
@@ -246,6 +254,7 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+
 
 
 
