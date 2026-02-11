@@ -3,7 +3,7 @@
 # Encrypt a Persistent Disk with a Customer-Supplied Key
 ### Google Cloud Skills Boost 
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/games/7008/labs/43562)
 
 ##  Lab Overview
 
