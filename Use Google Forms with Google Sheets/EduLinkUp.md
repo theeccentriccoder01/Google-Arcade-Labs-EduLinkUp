@@ -1,9 +1,9 @@
 ﻿<div align="center">
 
 # Use Google Forms with Google Sheets
-### Google Cloud Skills Boost 
+### Google Cloud Skills Boost | GSP1064
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/focuses/46917?parent=catalog)
 
 ##  Lab Overview
 
