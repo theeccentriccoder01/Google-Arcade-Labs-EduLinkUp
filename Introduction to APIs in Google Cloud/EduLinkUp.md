@@ -1,9 +1,9 @@
 ﻿<div align="center">
 
 # Introduction to APIs in Google Cloud
-### Google Cloud Skills Boost 
+### Google Cloud Skills Boost | GSP294
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/focuses/3473?parent=catalog)
 
 ##  Lab Overview
 
