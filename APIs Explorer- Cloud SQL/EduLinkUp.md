@@ -1,9 +1,9 @@
 ﻿<div align="center">
 
 # APIs Explorer- Cloud SQL
-### Google Cloud Skills Boost 
+### Google Cloud Skills Boost | GSP423
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/focuses/3685?parent=catalog)
 
 ##  Lab Overview
 
