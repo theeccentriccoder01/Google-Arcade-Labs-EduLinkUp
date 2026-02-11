@@ -3,7 +3,7 @@
 # Assign External IP to VM Instance using gcloud
 ### Google Cloud Skills Boost 
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/games/7008/labs/43561)
 
 ##  Lab Overview
 
