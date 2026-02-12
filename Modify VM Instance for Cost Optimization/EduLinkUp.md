@@ -29,24 +29,27 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-export VM_NAME="lab-vm"
-export ZONE="YOUR_ZONE"  # Replace with your actual zone
+gcloud auth list
+
+export ZONE=$(gcloud compute project-info describe --format="value(commonInstanceMetadata.items[google-compute-default-zone])")
+
+export PROJECT_ID=$(gcloud config get-value project)
+
+gcloud config set compute/zone "$ZONE"
+
+gcloud compute instances stop lab-vm --zone="$ZONE"
+
+sleep 10
+
+gcloud compute instances set-machine-type lab-vm --machine-type e2-medium --zone="$ZONE"
+
+sleep 10
+
+gcloud compute instances start lab-vm  --zone="$ZONE"
 ```
 
-```bash
-gcloud compute instances stop lab-vm --zone [YOUR_ZONE]
-```
 
-```bash
-gcloud compute instances set-machine-type $VM_NAME \
-  --machine-type e2-medium \
-  --zone $ZONE
-```
 
-```bash
-gcloud compute instances start lab-vm --zone YOUR_ZONE
-
-```
 
 > **Note:** The script automates repetitive setup tasks. We encourage you to review the script content to understand each step and learn the underlying Google Cloud operations.
 
@@ -259,6 +262,7 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+
 
 
 
