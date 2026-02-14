@@ -29,6 +29,11 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
+export ZONE=$(gcloud compute instances list lab-vm --format 'csv[no-heading](zone)')
+gcloud compute ssh lab-vm --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --quiet
+```
+
+```bash
 curl -LO raw.githubusercontent.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Cloud%20Speech%20API%203%20Ways-%20Challenge%20Lab/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
