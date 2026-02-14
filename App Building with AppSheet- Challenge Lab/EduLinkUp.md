@@ -26,7 +26,7 @@ graph LR
 ---
 ##  Quick Start Guide
 
-## ðŸ‘‰ Download [Here](https://docs.google.com/spreadsheets/d/17LghbXBEsja38K3zY8SjL7508OvQjzaN/export?format=xlsx)
+## 👉 Download [Here](https://docs.google.com/spreadsheets/d/1X0v-ZDz4C47Izwqq0mabamBPEBLOWdZl/export?format=xlsx)
 
 ---
 
