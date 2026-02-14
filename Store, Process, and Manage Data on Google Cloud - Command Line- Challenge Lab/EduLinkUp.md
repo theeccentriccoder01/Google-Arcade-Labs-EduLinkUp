@@ -26,7 +26,16 @@ graph LR
 ---
 ##  Quick Start Guide
 
+<div style="padding: 15px; margin: 10px 0;">
+
 Copy and paste the following commands into your Cloud Shell terminal:
+
+```bash
+export BUCKET=
+export TOPIC=
+export FUNCTION=
+export REGION=
+```
 
 ```bash
 curl -LO raw.githubusercontent.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Command%20Line-%20Challenge%20Lab/EduLinkUp.sh
@@ -34,7 +43,7 @@ sudo chmod +x EduLinkUp.sh
 ./EduLinkUp.sh
 ```
 
-
+</div>
 
 > **Note:** The script automates repetitive setup tasks. We encourage you to review the script content to understand each step and learn the underlying Google Cloud operations.
 
@@ -246,6 +255,7 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+
 
 
 
