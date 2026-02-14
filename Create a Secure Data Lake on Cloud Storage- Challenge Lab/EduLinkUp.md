@@ -26,15 +26,13 @@ graph LR
 ---
 ##  Quick Start Guide
 
-### Google Cloud Skills Boost - Lab ARC119
+### For form 1:
 ---
 
 * **Task 1. Create a Cloud Storage bucket.**
 * **Task 2. Create a lake in Dataplex and add a zone to your lake**
 * **Task 3. Create an entry group.**
 * **Task 4. Create a tag template (Storage bucket).**
-
-### Google Cloud Skills Boost - Lab ARC119
 
 ```bash
 export ZONE=
@@ -46,14 +44,12 @@ sudo chmod +x EduLinkUp1.sh
 ./EduLinkUp1.sh
 ```
 
-### Google Cloud Skills Boost - Lab ARC119
+### For form 2:
 
 * **Task 1. Create a lake in Dataplex and add a zone to your .**
 * **Task 2. Environment Creation for Dataplex .**
 * **Task 3. Attach an existing Cloud Storage bucket to the zone.**
 * **Task 4. Create a tag template (Storage bucket).**
-
-### Google Cloud Skills Boost - Lab ARC119
 
 ```bash
 export ZONE=
@@ -65,14 +61,12 @@ sudo chmod +x EduLinkUp2.sh
 ./EduLinkUp2.sh
 ```
 
-### Google Cloud Skills Boost - Lab ARC119
+### For form 3:
 
 * **Task 1. Create a BigQuery dataset.**
 * **Task 2. Add a zone to your lake.**
 * **Task 3. Attach an existing BigQuery Dataset to the Lake.**
 * **Task 4. Create a tag template (BigQuery Dataset).**
-
-### Google Cloud Skills Boost - Lab ARC119
 
 ```bash
 export ZONE=
@@ -84,14 +78,12 @@ sudo chmod +x EduLinkUp3.sh
 ./EduLinkUp3.sh
 ```
 
-### Google Cloud Skills Boost - Lab ARC119
+### For form 4:
 
 * **Task 1. Create a lake in Dataplex and add a zone to your lake.**
 * **Task 2. Attach an existing Cloud Storage bucket to the zone.**
 * **Task 3. Attach an existing BigQuery Dataset to the Lake.**
 * **Task 4. Create Entities.**
-
-### Google Cloud Skills Boost - Lab ARC119
 
 ```bash
 export ZONE=
