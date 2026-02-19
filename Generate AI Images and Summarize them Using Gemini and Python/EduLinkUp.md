@@ -3,7 +3,7 @@
 # Generate AI Images and Summarize them Using Gemini and Python
 ### Google Cloud Skills Boost 
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/games/7007/labs/43537)
 
 ##  Lab Overview
 
