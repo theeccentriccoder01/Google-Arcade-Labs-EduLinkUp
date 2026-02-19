@@ -3,7 +3,7 @@
 # Analyze the Text Prompt and Use it to Build an AI Image
 ### Google Cloud Skills Boost 
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/games/7007/labs/43536)
 
 ##  Lab Overview
 
