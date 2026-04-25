@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
 
 # Cloud Spanner - Loading Data and Performing Backups
 ### Google Cloud Skills Boost - Lab GSP1049
 
-[![Open Lab](https://img.shields.io/badge/▶️_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/catalog_lab/5727)
+[![Open Lab](https://img.shields.io/badge/??_Open_Lab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/catalog_lab/5727)
 
 
 ##  Lab Overview
@@ -30,7 +30,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Cloud%20Spanner%20-%20Loading%20Data%20and%20Performing%20Backups/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Cloud%20Spanner%20-%20Loading%20Data%20and%20Performing%20Backups/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```
@@ -55,7 +55,7 @@ Discover the Google Cloud Arcade Hub - <b>Track progress with EduLinkUp's exclus
 
 <div align="center">
 
-[![Arcade Hub](https://img.shields.io/badge/🎮_Arcade_Hub-FF6F61?style=for-the-badge&logo=gamepad&logoColor=white)](https://edulinkup.dev/arcade-calculator)
+[![Arcade Hub](https://img.shields.io/badge/??_Arcade_Hub-FF6F61?style=for-the-badge&logo=gamepad&logoColor=white)](https://edulinkup.dev/arcade-calculator)
 
 </div>
 
@@ -66,16 +66,16 @@ Discover the Google Cloud Arcade Hub - <b>Track progress with EduLinkUp's exclus
 <li><strong>Facilitator Program</strong>: Guides, milestone tracking, community roles, and swags.</li>
 </ul>
 
-## 🔐 Important Notice
+## ?? Important Notice
 
 <div align="center">
 
 ```mermaid
 graph LR
     Start([Use This Resource?]) --> Question{What's Your Goal?}
-    Question -->|Learn & Understand| Manual[📚 Study the Code]
-    Question -->|Quick Review| Auto[⚡ Use Automation]
-    Question -->|Certification Prep| Both[🎯 Do Both]
+    Question -->|Learn & Understand| Manual[?? Study the Code]
+    Question -->|Quick Review| Auto[? Use Automation]
+    Question -->|Certification Prep| Both[?? Do Both]
     
     Manual --> Read[Read Script Line by Line]
     Read --> Understand[Understand Each Command]
@@ -88,7 +88,7 @@ graph LR
     Both --> Manual
     Both --> Auto
     
-    Practice --> Success([✅ Deep Learning Achieved])
+    Practice --> Success([? Deep Learning Achieved])
     Reflect --> Success
     
     style Start fill:#E3F2FD,stroke:#1976D2,color:#000
@@ -101,7 +101,7 @@ graph LR
 </div>
 
 <details>
-<summary><b> ⚠️ Disclaimer ⚠️- 📖 Educational Use Policy (Expand)</b></summary>
+<summary><b> ?? Disclaimer ??- ?? Educational Use Policy (Expand)</b></summary>
 
 <br>
 
@@ -112,7 +112,7 @@ This repository provides learning resources to help you understand Google Cloud 
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Intended Use - Lab GSP1049
+### ? Intended Use - Lab GSP1049
 
 - Study and understand the underlying Google Cloud operations
 - Learn automation techniques for cloud infrastructure
@@ -122,7 +122,7 @@ This repository provides learning resources to help you understand Google Cloud 
 </td>
 <td width="50%" valign="top">
 
-### 📜 Terms of Service - Lab GSP1049
+### ?? Terms of Service - Lab GSP1049
 
 - Comply with Google Cloud Skills Boost terms of service
 - Use scripts for educational purposes only
@@ -140,10 +140,10 @@ We believe in learning through understanding. While our scripts save time, we st
 
 | Step | Action | Why It Matters |
 |------|--------|----------------|
-| 1️⃣ | Read through the script code | Understand what will happen |
-| 2️⃣ | Complete labs manually first | Build foundational knowledge |
-| 3️⃣ | Understand each command | Learn the "why" not just "how" |
-| 4️⃣ | Use automation as a tool | Reinforce learning, don't replace it |
+| 1?? | Read through the script code | Understand what will happen |
+| 2?? | Complete labs manually first | Build foundational knowledge |
+| 3?? | Understand each command | Learn the "why" not just "how" |
+| 4?? | Use automation as a tool | Reinforce learning, don't replace it |
 
 </div>
 
@@ -151,13 +151,13 @@ We believe in learning through understanding. While our scripts save time, we st
 
 ---
 
-## 🛠️ Troubleshooting
+## ??? Troubleshooting
 
 <div align="center">
 
 ```mermaid
 graph LR
-    Issue[❌ Encountered Issue?] --> Type{Issue Type}
+    Issue[? Encountered Issue?] --> Type{Issue Type}
     
     Type -->|Permission| P1[Check IAM Roles]
     Type -->|API| A1[Verify API Enabled]
@@ -169,14 +169,14 @@ graph LR
     Auth1 --> Auth2[gcloud auth login]
     S1 --> S2[Review Error Output]
     
-    P2 --> Retry[🔄 Retry Operation]
+    P2 --> Retry[?? Retry Operation]
     A2 --> Retry
     Auth2 --> Retry
     S2 --> Retry
     
     Retry --> Success{Fixed?}
-    Success -->|Yes| Done([✅ Resolved])
-    Success -->|No| Help[📞 Seek Help]
+    Success -->|Yes| Done([? Resolved])
+    Success -->|No| Help[?? Seek Help]
     
     style Issue fill:#FFCDD2,stroke:#C62828,color:#000
     style Done fill:#C8E6C9,stroke:#388E3C,color:#000
@@ -204,7 +204,7 @@ Having issues? Here are quick solutions:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/ðŸŒ_Website-edulinkup.dev-6C63FF?style=for-the-badge&logoColor=white)](https://edulinkup.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn_Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/edulinkup) [![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EduLinkUp)
+[![Website](https://img.shields.io/badge/🌍_Website-edulinkup.dev-6C63FF?style=for-the-badge&logoColor=white)](https://edulinkup.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn_Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/edulinkup) [![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EduLinkUp)
 
 ---
 
@@ -233,7 +233,7 @@ Having issues? Here are quick solutions:
 
 ---
 
-### 🌱 **Join the Developer Community** - Lab GSP1049
+### ?? **Join the Developer Community** - Lab GSP1049
 
 **Stay updated with everything happening in the EduLinkUp universe:**
 
@@ -251,6 +251,7 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+
 
 
 

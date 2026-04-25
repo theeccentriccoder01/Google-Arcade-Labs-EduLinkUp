@@ -46,7 +46,7 @@
 
 **9.** Setup a reference(remote) to the original repository to get all the changes from the remote.
 ```
-   git remote add upstream https://github.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp.git
+   git remote add upstream https://github.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp.git
 ```
 
 **10.** Check the remotes for this repository.
