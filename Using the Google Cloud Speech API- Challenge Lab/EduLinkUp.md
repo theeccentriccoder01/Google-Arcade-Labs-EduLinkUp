@@ -34,7 +34,7 @@ gcloud compute ssh lab-vm --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --quiet
 ```
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Using%20the%20Google%20Cloud%20Speech%20API-%20Challenge%20Lab/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Using%20the%20Google%20Cloud%20Speech%20API-%20Challenge%20Lab/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

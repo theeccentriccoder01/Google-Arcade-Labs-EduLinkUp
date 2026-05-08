@@ -29,7 +29,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/App%20Dev-%20Storing%20Image%20and%20Video%20Files%20in%20Cloud%20Storage%20-%20Python/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/App%20Dev-%20Storing%20Image%20and%20Video%20Files%20in%20Cloud%20Storage%20-%20Python/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

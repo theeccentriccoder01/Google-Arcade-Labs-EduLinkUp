@@ -39,7 +39,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp1.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp1.sh
 sudo chmod +x EduLinkUp1.sh 
 ./EduLinkUp1.sh
 ```
@@ -56,7 +56,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp2.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp2.sh
 sudo chmod +x EduLinkUp2.sh 
 ./EduLinkUp2.sh
 ```
@@ -73,7 +73,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp3.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp3.sh
 sudo chmod +x EduLinkUp3.sh 
 ./EduLinkUp3.sh
 ```
@@ -90,7 +90,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp4.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%3A%20Challenge%20Lab/EduLinkUp4.sh
 sudo chmod +x EduLinkUp4.sh 
 ./EduLinkUp4.sh
 ```

@@ -33,7 +33,7 @@ export REGION=
 ```
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Cloud%20Storage-%20Qwik%20Start%20-%20Cloud%20Console/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Cloud%20Storage-%20Qwik%20Start%20-%20Cloud%20Console/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

@@ -29,7 +29,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Interacting%20with%20Vault%20Policies/EduLinkUp1.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Interacting%20with%20Vault%20Policies/EduLinkUp1.sh
 sudo chmod +x EduLinkUp1.sh 
 ./EduLinkUp1.sh
 ```
@@ -113,7 +113,7 @@ run gsutil cp policies.txt token_capabilities.txt "gs://$PROJECT_ID"
 
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Interacting%20with%20Vault%20Policies/EduLinkUp2.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Interacting%20with%20Vault%20Policies/EduLinkUp2.sh
 sudo chmod +x EduLinkUp2.sh 
 ./EduLinkUp2.sh
 ```
@@ -121,7 +121,7 @@ sudo chmod +x EduLinkUp2.sh
 ## 👉Create the admin policies: Watch Video
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Interacting%20with%20Vault%20Policies/EduLinkUp3.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Interacting%20with%20Vault%20Policies/EduLinkUp3.sh
 sudo chmod +x EduLinkUp3.sh 
 ./EduLinkUp3.sh
 ```

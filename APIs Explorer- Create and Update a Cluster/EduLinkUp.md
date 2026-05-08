@@ -29,7 +29,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/APIs%20Explorer-%20Create%20and%20Update%20a%20Cluster/EduLinkUp.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/APIs%20Explorer-%20Create%20and%20Update%20a%20Cluster/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh
 ./EduLinkUp.sh
 ```

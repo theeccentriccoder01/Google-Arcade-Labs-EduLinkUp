@@ -29,7 +29,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Google%20Kubernetes%20Engine%20Security-%20Binary%20Authorization/EduLinkUp.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Google%20Kubernetes%20Engine%20Security-%20Binary%20Authorization/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh
 ./EduLinkUp.sh
 ```

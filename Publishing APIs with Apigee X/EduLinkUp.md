@@ -30,7 +30,7 @@ Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
 
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Arcade-Google-Cloud-Labs/refs/heads/main/Publishing%20APIs%20with%20Apigee%20X/EduLinkUp.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Arcade-Google-Cloud-Labs/refs/heads/main/Publishing%20APIs%20with%20Apigee%20X/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh
 ./EduLinkUp.sh
 ```

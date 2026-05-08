@@ -29,7 +29,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Migrating%20to%20Cloud%20SQL%20from%20Amazon%20RDS%20for%20MySQL%20Using%20Database%20Migration%20Service/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Migrating%20to%20Cloud%20SQL%20from%20Amazon%20RDS%20for%20MySQL%20Using%20Database%20Migration%20Service/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

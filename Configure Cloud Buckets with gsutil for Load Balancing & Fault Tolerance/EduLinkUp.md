@@ -32,7 +32,7 @@ graph LR
 Copy and paste the following commands into your terminal:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/main/Configure%20Cloud%20Buckets%20with%20gsutil%20for%20Load%20Balancing%20%26%20Fault%20Tolerance/EduLinkUp.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/main/Configure%20Cloud%20Buckets%20with%20gsutil%20for%20Load%20Balancing%20%26%20Fault%20Tolerance/EduLinkUp.sh
 
 source EduLinkUp.sh
 ```

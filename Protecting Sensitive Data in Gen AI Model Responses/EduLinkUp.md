@@ -31,7 +31,7 @@ Copy and paste the following commands into your Cloud Shell terminal:
 ```bash
 rm deidentify-model-response-v1.0.0.ipynb
 
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Protecting%20Sensitive%20Data%20in%20Gen%20AI%20Model%20Responses/deidentify-model-response-v1.0.0.ipynb
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Protecting%20Sensitive%20Data%20in%20Gen%20AI%20Model%20Responses/deidentify-model-response-v1.0.0.ipynb
 
 ```
 

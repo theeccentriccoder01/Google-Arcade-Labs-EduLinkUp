@@ -34,14 +34,14 @@ export ZONE=
 
 ## Command 1:-
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Host%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/EduLinkUp1.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Host%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/EduLinkUp1.sh
 sudo chmod +x EduLinkUp1.sh 
 ./EduLinkUp1.sh
 ```
 ## Check Progress till `Task 5`
 ## Command 2:-
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Host%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/EduLinkUp2.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Host%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/EduLinkUp2.sh
 sudo chmod +x EduLinkUp2.sh 
 ./EduLinkUp2.sh
 ```

@@ -35,7 +35,7 @@ gcloud compute ssh centos-clean --zone=$ZONE --quiet
 ```
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Configuring%20IAM%20Permissions%20with%20gcloud/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Configuring%20IAM%20Permissions%20with%20gcloud/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

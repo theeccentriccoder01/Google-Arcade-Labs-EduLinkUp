@@ -34,7 +34,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/main/PubSub-%20Qwik%20Start%20-%20Python/EduLinkUp.sh
+curl -LO https://raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/main/PubSub-%20Qwik%20Start%20-%20Python/EduLinkUp.sh
 chmod +x EduLinkUp.sh
 ./EduLinkUp.sh
 ```
